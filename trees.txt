@@ -4,8 +4,12 @@ some tree 2
 some tree 3
 some tree 4
 some tree 5
+<<<<<<< HEAD
 some tree 6
 some tree 7
 some tree 8
 some tree 9
 some tree 10
+=======
+some tree 6
+>>>>>>> parent of d3db454 (7th commit)
